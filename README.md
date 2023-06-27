@@ -1,4 +1,4 @@
-# AlgoritomosDeOrdenacio
+# AlgoritmosDeOrdenacion
 
 Código fuente con las implementaciones, explicaciones y puesta a prueba de los Algoritmos de Ordenación Directos e Indirectos.
 
